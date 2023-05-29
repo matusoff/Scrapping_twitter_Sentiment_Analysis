@@ -9,7 +9,9 @@ Create a vector for each tweet by averaging of the vectors of the words present 
 
 Train Doc2Vec and svm models.
 
+Use XGBoost with Word2Vec model.
+
 Using Logistic Regression to fit the data and obtain different scores for predicted data.
 
-Using XGBoost with Word2Vec model.
+
 
