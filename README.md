@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-This repository hosts a comprehensive sentiment analysis project focused on Twitter data. Developed by me, this project employs various natural language processing (NLP) techniques and machine learning models to understand the sentiments expressed in tweets. The goal is to analyze the common words used in tweets, preprocess data, and apply several models to predict sentiments accurately.
+This repository hosts a comprehensive sentiment analysis project focused on Twitter data. This project employs various natural language processing (NLP) techniques and machine learning models to understand the sentiments expressed in tweets. The goal is to analyze the common words used in tweets, preprocess data, and apply several models to predict sentiments accurately.
 
 ## Project Overview
 
